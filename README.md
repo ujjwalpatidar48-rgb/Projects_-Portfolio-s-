@@ -1,5 +1,5 @@
-1  Customer & Sales Analysis Dashboards
- Overview:
+**Customer & Sales Analysis Dashboards**
+Overview:
 This Power BI project provides an in-depth analysis of company sales performance and customer behavior through two interactive dashboards — Sales Overview and Customer Analysis. The goal is to help business teams understand key revenue drivers, top-performing products, and customer engagement patterns for better strategic decisions.
 
 Key Highlights:
@@ -13,7 +13,7 @@ Tools Used:
 Power BI
 
 
-2  PhonePe Dashboard – Business Performance Analysis
+**PhonePe Dashboard – Business Performance Analysis**
  Overview:
 This Power BI dashboard provides a comprehensive analysis of PhonePe’s overall business performance, revenue segmentation, regional growth, and customer insights. It highlights key drivers of profitability and opportunities for strategic expansion.
 
@@ -45,7 +45,7 @@ Top 30% of customers and regions generate over 70% of total revenue — applying
 Tools Used:
 Power BI
 
-3 Electric Vehicle Analysis Dashboard
+ **Electric Vehicle Analysis Dashboard**
 
 Overview:
 This Power BI dashboard provides a comprehensive analysis of the Electric Vehicle (EV) market from 2011–2024, highlighting growth trends, manufacturer performance, regional adoption, and policy eligibility. The goal is to understand EV market dynamics, brand dominance, and expansion opportunities.
@@ -79,7 +79,7 @@ Tools Used:
 Power BI
 
 
-4 AI Jobs & Salary Insights Dashboard
+**AI Jobs & Salary Insights Dashboard**
 
 Overview:
 This Power BI dashboard provides an analytical overview of the global AI job market, highlighting salary trends, job distribution, experience requirements, and geographic variations. It offers data-driven insights into how AI roles are evolving across industries and regions.
