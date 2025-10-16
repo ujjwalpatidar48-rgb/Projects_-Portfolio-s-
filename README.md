@@ -111,3 +111,29 @@ AI job markets are thriving globally, led by Machine Learning and Data Science r
 
 Tools Used:
 Power BI | DAX 
+
+
+Comprehensive HR Analytics & Workforce DashboardData  
+
+This repository contains the **raw data, calculations, and supporting components** for a robust **Human Resources (HR) Analytics Dashboard**. The purpose of this project is to provide a clear, data-driven view of key workforce metrics, enabling strategic decision-making in HR and managemKey Data & Metrics Included:
+
+The files provide a structured view of various HR areas, typically spanning quarterly or monthly periods:
+
+* **Workforce Planning:** FTE counts, staff headcounts, consultant numbers, and open positions. (See `Staff.csv`)
+* **Talent Acquisition:** Metrics related to **new hires**, terminations, and potentially **Spend Per Hire**.
+* **Compensation & Benefits:** Average salary, average bonus, average overtime, and average leave balances. (See `HR.csv`)
+* **Employee Performance & Engagement:** Quarterly data for **employee satisfaction surveys**, training completion rates, average staff ratings, and gender diversity percentages. (See `HR.csv` and `Calcs.csv`)
+* **Operational Health:** Overtime hours logged and FTE vs. Contractor percentages.
+* **Model Calculations:** Dedicated sheets (`Calcs.csv`, `Chart.csv`) house the formulas and intermediate steps used to transform the raw data into key performance indicators (KPIs) and visualize them, including targets for metrics like **Speed to Hire** and **Promotion Rate**.
+
+ Structure and Components:
+
+The repository is organized by the functional components of the original spreadsheet model, including:
+
+* `HR.csv` & `Staff.csv`: Primary **Input Sheets** containing the core monthly/quarterly data.
+* `Calcs.csv` & `Chart.csv`: **Calculation Sheets** for processing data and preparing output for visualization.
+* `Summary.csv`: The **Output Sheet** containing the final, summarized results and KPI dashboard view.
+* `Check.csv`: Data integrity and **Error Trapping** logic to ensure accuracy.
+* `Lists.csv` & `Model.csv`: Sheets defining key assumptions, lists (regions, departments), and the overall model structure.
+
+This project is ideal for exploring data modeling, HR metric definitions, and dashboard development using real-world workforce data.
